@@ -40,4 +40,6 @@ h1, h2 {
 /* 6. Cambia el color del texto a morado solo para los párrafos (<p>) que tengan la clase
 importante. */ 
 
-p.importante { color: #BC00FF; }
+p.importante { 
+    color: #BC00FF; 
+}
